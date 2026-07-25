@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: TerraPulse: Interactive Planet World \u0026 Map Explorer",
+  "description": "An ultra-high-definition interactive 3D planet Earth studio with real-time orbital rotation, city exploration, AI Geo-Guide, and seamless zoom into Google Maps \u0026 street-level satellite views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
